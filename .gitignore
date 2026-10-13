@@ -1,0 +1,17 @@
+# Dependency directories
+**/node_modules/
+**/target/
+**/dist/
+
+# IDE and Project specific files
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+
+# Log files
+*.log
+
+# Sensitive environment configuration files
+shiftdesk-api/src/main/resources/application.properties
