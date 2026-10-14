@@ -2,7 +2,7 @@
 
 A multi-store employee shift scheduling web app. Managers publish shifts for their store, employees claim the open shifts that match their job role, and the system makes sure nobody is double-booked.
 
-![ShiftDesk-Landing Page](image.png)
+![ShiftDesk landing page](docs/landing-page.png)
 
 ## Features
 
